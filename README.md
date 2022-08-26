@@ -1,0 +1,1 @@
+# smath: shorthand for math
